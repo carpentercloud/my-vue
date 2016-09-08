@@ -4,7 +4,7 @@
     <div class="container">
       <a class="navbar-brand" href="#">
         <i class="glyphicon glyphicon-time"></i>
-        计划表
+        计划版
       </a>
       <ul class="nav navbar-nav">
         <li><a v-link="'/home'">首页</a></li>
